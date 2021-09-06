@@ -1,5 +1,5 @@
 # NervtechDevelopmentTask
- Private Git reposytory for Nervtech entry task 
+Git reposytory for Nervtech entry task 
  
 ##  What the code does?
 The code in Nervtech_task.py file reads data from predetermined .csv files in predetermined locations.
